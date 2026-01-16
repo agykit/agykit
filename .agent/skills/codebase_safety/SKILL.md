@@ -1,6 +1,6 @@
 ---
 name: Codebase Safety & Exploration
-description: Guide for safely navigating and modifying an existing codebase. Use this skill when: (1) Onboarding to a new project or context, (2) Planning complex changes that might have side effects, (3) Ensuring modifications don't break existing functionality across different languages and frameworks.
+description: "Guide for safely navigating and modifying an existing codebase. Use this skill when: (1) Onboarding to a new project or context, (2) Planning complex changes that might have side effects, (3) Ensuring modifications don't break existing functionality across different languages and frameworks."
 ---
 
 # Codebase Safety & Exploration
